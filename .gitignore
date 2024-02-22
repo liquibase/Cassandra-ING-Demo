@@ -1,0 +1,26 @@
+# Maven target directory
+/target/
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# IntelliJ project files
+*.iml
+.idea/
+
+# NetBeans project files
+nb-configuration.xml
+
+# Maven dependency directory (if using Maven 2+)
+.m2/
+
+# Gradle project files
+.gradle/
+
+# Logs
+*.log
+
+.DS_Store
+
