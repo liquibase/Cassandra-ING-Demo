@@ -19,7 +19,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
                     <dependency>
                         <groupId>com.ing.data</groupId>
                         <artifactId>cassandra-jdbc-wrapper</artifactId>
-                        <version>4.11.0</version>
+                        <version>4.16.4</version>
                     </dependency>
                     <dependency>
                         <groupId>org.liquibase.ext</groupId>
